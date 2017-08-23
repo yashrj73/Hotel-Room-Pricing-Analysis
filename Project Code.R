@@ -1,7 +1,4 @@
 # Project Title:  Hotel Room Pricing In The Indian Market
-# NAME: Yashraj Shrivastava 
-# EMAIL: yashrj73@gmail.com
-# COLLEGE : SRM University
 
 #Reading the data into R
 Cities.df<-read.csv(paste("Cities42.csv"))
