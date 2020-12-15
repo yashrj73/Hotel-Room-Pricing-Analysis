@@ -2,4 +2,4 @@ This is R code for analyzing the pricing strategy of hotel rooms in Indian Hotel
 
 Basic concepts of statistics and econometrics are applied for testing, visualizing and deriving insights from data and finding the most crucial factors contributing to the pricing strategy.
 
-Project reports: shorturl.at/jHMS0 
+**Project reports: shorturl.at/jHMS0**
